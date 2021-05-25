@@ -1,0 +1,239 @@
+.u-section-1 {
+  min-height: 288px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 28px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 261px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 6px 30px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 186px;
+  height: 186px;
+  background-image: url("images/giger_themself.jpg");
+  background-position: 50% 50%;
+  margin: 31px auto 0;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 261px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 15px 30px 8px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 1px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 20px 82px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 {
+    min-height: 496px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 215px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 223px;
+    height: 223px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 215px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 {
+    min-height: 448px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 165px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 216px;
+    height: 216px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 {
+    min-height: 698px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 307px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 {
+    min-height: 584px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 193px;
+  }
+}.u-section-2 {
+  min-height: 690px;
+}
+
+.u-section-2 .u-gallery-1 {
+  height: 518px;
+  margin-top: 86px;
+  margin-bottom: 86px;
+}
+
+.u-section-2 .u-gallery-inner-1 {
+  grid-template-columns: repeat(4, auto);
+  grid-gap: 10px;
+}
+
+.u-section-2 .u-back-image-1 {
+  object-position: 50% 23.48%;
+}
+
+.u-section-2 .u-over-slide-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-back-image-2 {
+  object-position: 50% 20.34%;
+}
+
+.u-section-2 .u-over-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-gallery-item-5 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-over-slide-5 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-gallery-item-6 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-back-image-6 {
+  object-position: 50% 81.01%;
+}
+
+.u-section-2 .u-over-slide-6 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-7 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-8 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 {
+    min-height: 600px;
+  }
+
+  .u-section-2 .u-gallery-1 {
+    height: 427px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 {
+    min-height: 1297px;
+  }
+
+  .u-section-2 .u-gallery-1 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    height: 1308px;
+  }
+
+  .u-section-2 .u-gallery-inner-1 {
+    grid-template-columns: repeat(2, auto);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 {
+    min-height: 3443px;
+  }
+
+  .u-section-2 .u-gallery-1 {
+    height: 3924px;
+  }
+
+  .u-section-2 .u-gallery-inner-1 {
+    grid-template-columns: repeat(1, auto);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 {
+    min-height: 2659px;
+  }
+
+  .u-section-2 .u-gallery-1 {
+    height: 2471px;
+  }
+}
